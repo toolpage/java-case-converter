@@ -23,8 +23,8 @@ public class Example {
 
 ## Online Resources
 
-Get more information and online tools for this implementation on:
-https://en.toolpage.org/cat/text-conversion
+Get more information and online tools for this implementation on 
+https://en.toolpage.org/cat/case-converter
 
 * [Upper case converter](https://en.toolpage.org/tool/uppercase)
 * [Lower case converter](https://en.toolpage.org/tool/lowercase)
